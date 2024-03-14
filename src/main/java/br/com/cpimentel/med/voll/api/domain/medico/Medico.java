@@ -1,7 +1,6 @@
-package br.com.cpimentel.med.voll.api.medico;
+package br.com.cpimentel.med.voll.api.domain.medico;
 
-import br.com.cpimentel.med.voll.api.endereco.DadosEndereco;
-import br.com.cpimentel.med.voll.api.endereco.Endereco;
+import br.com.cpimentel.med.voll.api.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

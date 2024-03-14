@@ -1,4 +1,4 @@
-package br.com.cpimentel.med.voll.api.medico;
+package br.com.cpimentel.med.voll.api.domain.medico;
 
 public record dadosListagemMedico(Long id, String nome, String email, String crm, Especialidade especialidade) {
 

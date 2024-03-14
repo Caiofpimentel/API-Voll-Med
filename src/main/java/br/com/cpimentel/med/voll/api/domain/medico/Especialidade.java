@@ -1,4 +1,4 @@
-package br.com.cpimentel.med.voll.api.medico;
+package br.com.cpimentel.med.voll.api.domain.medico;
 
 public enum Especialidade {
     ORTOPEDIA,
